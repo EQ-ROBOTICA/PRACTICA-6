@@ -53,9 +53,6 @@ void loop() {
   - *Edgar Zahid Hernandez Garcia:*
 
 - *Gael Mateo Rangel Chavez:*
-En conclusión, esta práctica laboratorio permitió controlar un motor a pasos utilizando un Arduino Uno y un driver, aplicando los conceptos de pulsos y control de dirección. Se programaron
-ciclos para mover el motor en dos direcciones con diferentes velocidades, ajustando el retardo entre pulsos para modificar la velocidad del motor. Los cálculos de tiempo confirmaron
-que el motor completa las 5 y 3 vueltas en aproximadamente 2 y 1 segundo, respectivamente. Este ejercicio demuestra cómo se pueden controlar con precisión los motores a pasos en
-aplicaciones robóticas y de automatización con un Arduino.
+En conclusión, esta práctica laboratorio permitió controlar un motor a pasos utilizando un Arduino Uno y un driver, aplicando los conceptos de pulsos y control de dirección. Se programaron ciclos para mover el motor en dos direcciones con diferentes velocidades, ajustando el retardo entre pulsos para modificar la velocidad del motor. Los cálculos de tiempo confirmaron que el motor completa las 5 y 3 vueltas en aproximadamente 2 y 1 segundo, respectivamente. Este ejercicio demuestra cómo se pueden controlar con precisión los motores a pasos en aplicaciones robóticas y de automatización con un Arduino.
 
 - *Alejandro Saldaña Garcia:*
